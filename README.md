@@ -7,3 +7,5 @@ This is a simple modal written in vanilla Javascript.
 - Click the X to dismiss
 
 Like I said, simple.
+
+![alt text](javascript-simple-modal.png)
