@@ -8,4 +8,4 @@ This is a simple modal written in vanilla Javascript.
 
 Like I said, simple.
 
-![alt text](javascript-simple-modal.png)
+![javascript simple modal](javascript-simple-modal.png)
